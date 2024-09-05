@@ -79,7 +79,7 @@ We will not reimburse the following expenses:
 
 ### Invoice Submission
 
-- Invoices must be submitted monthly and no later than 30 days after the month in which the services were provided.
+- Invoices must be submitted monthly and no later than 30 days after the month in which the services were provided. We will endeavor to pay bills within 30 days of receipt of invoices.
 
 - Each invoice must include a detailed breakdown of the work performed, the individual performing the work, the time spent, the billing rate, and a description of expenses.
 
