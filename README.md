@@ -1,5 +1,7 @@
 # Outside Counsel Policy
 
+Editable and downloadable version of this document for your use available at: https://outsidecounselguidelines.netlify.app/
+
 ## Description
 
 This repository contains the Outside Counsel Policy for [Name-of-your-company]. The policy outlines our expectations, guidelines, and procedures for engaging with and managing outside legal counsel. It is designed to ensure transparency, efficiency, and high-quality legal services while maintaining cost-effectiveness.
