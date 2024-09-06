@@ -314,7 +314,7 @@ const CouncilGuidelines = () => {
 				<thead>
 					<tr className="bg-gray-100">
 						<th className="py-2 px-4 border border-gray-300 font-semibold text-left">Hours</th>
-						 <th className="py-2 px-4 border border-gray-300 font-semibold text-left">Description</th>
+						<th className="py-2 px-4 border border-gray-300 font-semibold text-left">Description</th>
 					</tr>
 				</thead>
 				<tbody>
@@ -332,21 +332,21 @@ const CouncilGuidelines = () => {
 			<p className="mb-4 avoid-break">An acceptable method to enter the time entry would be:</p>
 			<table>
 				<thead>
-				<tr>
-					<th>Hours</th>
-					<th>Description</th>
-				</tr>
+					<tr className="bg-gray-100">
+						<th className="py-2 px-4 border border-gray-300 font-semibold text-left">Hours</th>
+						<th className="py-2 px-4 border border-gray-300 font-semibold text-left">Description</th>
+					</tr>
 				</thead>
 				<tbody>
-				<tr>
-					<td>1.5</td>
-					<td>
-					Call with client to discuss ongoing matters (.5); reviewed
-					revised draft of client agreement indemnification provision
-					(.3); drafted email to client to discuss merits of revisions
-					to client agreement and indemnification (.7)
-					</td>
-				</tr>
+					<tr>
+						<td className="py-2 px-4 border border-gray-300 align-top">1.5</td>
+						<td className="py-2 px-4 border border-gray-300">
+							Call with client to discuss ongoing matters (.5); reviewed
+							revised draft of client agreement indemnification provision
+							(.3); drafted email to client to discuss merits of revisions
+							to client agreement and indemnification (.7)
+						</td>
+					</tr>
 				</tbody>
 			</table>
 
