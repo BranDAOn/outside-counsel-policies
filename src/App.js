@@ -55,7 +55,7 @@ const CouncilGuidelines = () => {
 				className="border-b border-gray-300 focus:border-blue-500 outline-none"
 			/>OUTSIDE COUNSEL POLICY</h1>
 		
-			<h2>1. Introduction</h2>
+			<h2 className="text-2xl font-bold mt-6 mb-4 avoid-break text-left">1. Introduction</h2>
 		
 			<p className="mb-4 avoid-break">
 				At <input
@@ -93,7 +93,7 @@ const CouncilGuidelines = () => {
 				working relationship.
     		</p>
 
-			<h2>2. Scope and Application</h2>
+			<h2 className="text-2xl font-bold mt-6 mb-4 avoid-break text-left">2. Scope and Application</h2>
 
 			<p className="mb-4 avoid-break">
 				These Billing Guidelines outline our expectations for Outside Counsel in
@@ -118,9 +118,9 @@ const CouncilGuidelines = () => {
 				agreement between us and Outside Counsel.
      		</p>
 
-			<h2>3. Timekeeping and Billing Practices</h2>
+			<h2 className="text-2xl font-bold mt-6 mb-4 avoid-break text-left">3. Timekeeping and Billing Practices</h2>
 
-			<h3>3.1 Detailed Time Entries</h3>
+			<h3 className="font-bold mt-6 mb-4 avoid-break text-left">3.1 Detailed Time Entries</h3>
 
 			<ul>
         		<li>
@@ -145,7 +145,7 @@ const CouncilGuidelines = () => {
 				</li>
 			</ul>
 
-			<h3>3.2 Billing for Meetings, Calls, and Emails</h3>
+			<h3 className="font-bold mt-6 mb-4 avoid-break text-left">3.2 Billing for Meetings, Calls, and Emails</h3>
 
 			<ul>
 				<li>
@@ -165,9 +165,9 @@ const CouncilGuidelines = () => {
 				</li>
 			</ul>
 
-			<h2>4. Staffing and Resource Management</h2>
+			<h2 className="text-2xl font-bold mt-6 mb-4 avoid-break text-left">4. Staffing and Resource Management</h2>
 
-      		<h3>4.1 Staffing Efficiency</h3>
+      		<h3 className="font-bold mt-6 mb-4 avoid-break text-left">4.1 Staffing Efficiency</h3>
 
 			<ul>
         		<li>
@@ -184,7 +184,7 @@ const CouncilGuidelines = () => {
         		</li>
 			</ul>
 
-			<h3>4.2 Prohibited Billing for Administrative Roles</h3>
+			<h3 className="font-bold mt-6 mb-4 avoid-break text-left">4.2 Prohibited Billing for Administrative Roles</h3>
 
 			<ul>
         		<li>
@@ -195,7 +195,7 @@ const CouncilGuidelines = () => {
         		</li>
      		</ul>
 
-			<h3>4.3 Use of Experts, Consultants, and Vendors</h3>
+			<h3 className="font-bold mt-6 mb-4 avoid-break text-left">4.3 Use of Experts, Consultants, and Vendors</h3>
 
 			<ul>
 				<li>
@@ -207,9 +207,9 @@ const CouncilGuidelines = () => {
 				</li>
 			</ul>
 
-			<h2>5. Expense Management</h2>
+			<h2 className="text-2xl font-bold mt-6 mb-4 avoid-break text-left">5. Expense Management</h2>
 
-			<h3>5.1 Travel and Related Expenses</h3>
+			<h3 className="font-bold mt-6 mb-4 avoid-break text-left">5.1 Travel and Related Expenses</h3>
 
 			<ul>
 				<li>
@@ -230,7 +230,7 @@ const CouncilGuidelines = () => {
 				</li>
 			</ul>
 
-			<h3>5.2 Disallowed Expenses</h3>
+			<h3 className="font-bold mt-6 mb-4 avoid-break text-left">5.2 Disallowed Expenses</h3>
 
 			<p className="mb-4 avoid-break">We will not reimburse the following expenses:</p>
 
@@ -245,9 +245,9 @@ const CouncilGuidelines = () => {
 				<li>Mark-ups on third-party vendor services.</li>
 			</ul>
 
-			<h2>6. Invoicing Procedures</h2>
+			<h2 className="text-2xl font-bold mt-6 mb-4 avoid-break text-left">6. Invoicing Procedures</h2>
 
-			<h3>6.1 Invoice Submission</h3>
+			<h3 className="font-bold mt-6 mb-4 avoid-break text-left">6.1 Invoice Submission</h3>
 
 			<ul>
 				<li>
@@ -266,7 +266,7 @@ const CouncilGuidelines = () => {
 				</li>
 			</ul>
 
-			<h3>6.2 Invoice Requirements</h3>
+			<h3 className="font-bold mt-6 mb-4 avoid-break text-left">6.2 Invoice Requirements</h3>
 
 			<p className="mb-4 avoid-break">Invoices must include:</p>
 
@@ -284,7 +284,7 @@ const CouncilGuidelines = () => {
 				</li>
 			</ul>
 
-			<h3>6.3 Budget Monitoring and Updates</h3>
+			<h3 className="font-bold mt-6 mb-4 avoid-break text-left">6.3 Budget Monitoring and Updates</h3>
 
 			<p className="mb-4 avoid-break">
 				Invoices and charges that conform to this Policy will be processed for
@@ -350,7 +350,7 @@ const CouncilGuidelines = () => {
 				</tbody>
 			</table>
 
-			<h3>6.4 Budget Monitoring and Updates</h3>
+			<h3 className="font-bold mt-6 mb-4 avoid-break text-left">6.4 Budget Monitoring and Updates</h3>
 
 			<p className="mb-4 avoid-break">
 				For large-scale or ongoing matters, Outside Counsel is expected to
@@ -360,9 +360,9 @@ const CouncilGuidelines = () => {
 				that costs align with expectations.
 			</p>
 
-			<h2>7. Compliance and Ethical Standards</h2>
+			<h2 className="text-2xl font-bold mt-6 mb-4 avoid-break text-left">7. Compliance and Ethical Standards</h2>
 
-			<h3>7.1 Confidentiality and Data Security</h3>
+			<h3 className="font-bold mt-6 mb-4 avoid-break text-left">7.1 Confidentiality and Data Security</h3>
 
 			<p className="mb-4 avoid-break">
 				Outside Counsel will have access to confidential and proprietary
@@ -372,7 +372,7 @@ const CouncilGuidelines = () => {
 				may result in further legal action.
 			</p>
 
-			<h3>7.2 Compliance with Laws</h3>
+			<h3 className="font-bold mt-6 mb-4 avoid-break text-left">7.2 Compliance with Laws</h3>
 
 			<p className="mb-4 avoid-break">
 				Outside Counsel must comply with all applicable laws, including
@@ -380,7 +380,7 @@ const CouncilGuidelines = () => {
 				regulations related to conflict of interest and financial transparency.
 			</p>
 
-			<h3>7.3 Conflicts of Interest</h3>
+			<h3 className="font-bold mt-6 mb-4 avoid-break text-left">7.3 Conflicts of Interest</h3>
 
 			<p className="mb-4 avoid-break">
 				Prior to accepting any engagement, Outside Counsel must perform a
@@ -388,7 +388,7 @@ const CouncilGuidelines = () => {
 				us, and a resolution must be reached before representation continues.
 			</p>
 
-			<h2>8. Enforcement and Modifications</h2>
+			<h2 className="text-2xl font-bold mt-6 mb-4 avoid-break text-left">8. Enforcement and Modifications</h2>
 
 			<p className="mb-4 avoid-break">
 				We reserve the right to audit any invoices or time records to ensure
