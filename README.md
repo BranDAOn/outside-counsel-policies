@@ -1,6 +1,6 @@
 # Outside Counsel Policy
 
-Editable and downloadable version of this document for your use available at: https://outsidecounselguidelines.netlify.app/
+Deployed version of this document for your use available at: https://outsidecounselguidelines.netlify.app/. Just enter your company's name at the top (e.g., BHF Consulting LLC).
 
 ## Description
 
