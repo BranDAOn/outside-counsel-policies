@@ -54,9 +54,9 @@ const CouncilGuidelines = () => {
 				placeholder="[Name-of-your-Company]"
 				className="border-b border-gray-300 focus:border-blue-500 outline-none"
 			/>OUTSIDE COUNSEL POLICY</h1>
-
+		
 			<h2>1. Introduction</h2>
-
+			<br>
 			<p className="mb-4 avoid-break">
 				At <input
 				type="text"
@@ -75,7 +75,7 @@ const CouncilGuidelines = () => {
 				strong ethical standards.
 			</p>
 
-			<p>
+			<p className="mb-4 avoid-break">
 				To maintain these standards, we developed a comprehensive set of billing
 				guidelines. These guidelines are designed to ensure that our Outside
 				Counsel provide services efficiently, avoid unnecessary expenses, and
@@ -85,7 +85,7 @@ const CouncilGuidelines = () => {
 				and professionalism.
      		</p>
 
-			 <p>
+			 <p className="mb-4 avoid-break">
 				These guidelines apply to all legal matters unless otherwise agreed upon
 				in writing. By engaging with us, Outside Counsel agrees to abide by
 				these guidelines. Failure to comply may result in adjustments or
@@ -95,7 +95,7 @@ const CouncilGuidelines = () => {
 
 			<h2>2. Scope and Application</h2>
 
-			<p>
+			<p className="mb-4 avoid-break">
 				These Billing Guidelines outline our expectations for Outside Counsel in
 				key areas such as:
       		</p>
@@ -109,7 +109,7 @@ const CouncilGuidelines = () => {
 				<li>Compliance with Applicable Laws and Ethical Standards</li>
       		</ul>
 
-			<p>
+			<p className="mb-4 avoid-break">
 				All members of Outside Counsel's team must be familiar with and adhere
 				to these guidelines when providing services to us. Any deviation from
 				these standards must be pre-approved in writing by our legal team or
@@ -232,7 +232,7 @@ const CouncilGuidelines = () => {
 
 			<h3>5.2 Disallowed Expenses</h3>
 
-			<p>We will not reimburse the following expenses:</p>
+			<p className="mb-4 avoid-break">We will not reimburse the following expenses:</p>
 
 			<ul>
 				<li>Internal copying or printing fees.</li>
@@ -268,7 +268,7 @@ const CouncilGuidelines = () => {
 
 			<h3>6.2 Invoice Requirements</h3>
 
-			<p>Invoices must include:</p>
+			<p className="mb-4 avoid-break">Invoices must include:</p>
 
 			<ul>
 				<li>A unique invoice number.</li>
@@ -286,7 +286,7 @@ const CouncilGuidelines = () => {
 
 			<h3>6.3 Budget Monitoring and Updates</h3>
 
-			<p>
+			<p className="mb-4 avoid-break">
 				Invoices and charges that conform to this Policy will be processed for
 				payment. Invoices or charges that do not conform to this Policy and do
 				not contain the information outlined in Sections 3.1 and 6.2 may be
@@ -309,7 +309,7 @@ const CouncilGuidelines = () => {
 				<li>Invoice not submitted in a timely manner</li>
 			</ul>
 
-			<p>For example, an invoice containing the following entry will be returned (unless pre-approved):</p>
+			<p className="mb-4 avoid-break">For example, an invoice containing the following entry will be returned (unless pre-approved):</p>
 			<table>
 				<thead>
 				<tr>
@@ -329,7 +329,7 @@ const CouncilGuidelines = () => {
 				</tbody>
 			</table>
 
-			<p>An acceptable method to enter the time entry would be:</p>
+			<p className="mb-4 avoid-break">An acceptable method to enter the time entry would be:</p>
 			<table>
 				<thead>
 				<tr>
@@ -352,7 +352,7 @@ const CouncilGuidelines = () => {
 
 			<h3>6.4 Budget Monitoring and Updates</h3>
 
-			<p>
+			<p className="mb-4 avoid-break">
 				For large-scale or ongoing matters, Outside Counsel is expected to
 				provide detailed budgets. Deviations from the agreed budget exceeding
 				10% must be discussed with us and approved in advance in writing. Budget
@@ -364,7 +364,7 @@ const CouncilGuidelines = () => {
 
 			<h3>7.1 Confidentiality and Data Security</h3>
 
-			<p>
+			<p className="mb-4 avoid-break">
 				Outside Counsel will have access to confidential and proprietary
 				information during the course of representation. All such information
 				must be handled with the highest levels of security and care. Any breach
@@ -374,7 +374,7 @@ const CouncilGuidelines = () => {
 
 			<h3>7.2 Compliance with Laws</h3>
 
-			<p>
+			<p className="mb-4 avoid-break">
 				Outside Counsel must comply with all applicable laws, including
 				anti-corruption laws, data protection laws (such as GDPR), and
 				regulations related to conflict of interest and financial transparency.
@@ -382,7 +382,7 @@ const CouncilGuidelines = () => {
 
 			<h3>7.3 Conflicts of Interest</h3>
 
-			<p>
+			<p className="mb-4 avoid-break">
 				Prior to accepting any engagement, Outside Counsel must perform a
 				thorough conflict check. Any conflicts must be immediately disclosed to
 				us, and a resolution must be reached before representation continues.
@@ -390,7 +390,7 @@ const CouncilGuidelines = () => {
 
 			<h2>8. Enforcement and Modifications</h2>
 
-			<p>
+			<p className="mb-4 avoid-break">
 				We reserve the right to audit any invoices or time records to ensure
 				compliance with these guidelines. If any discrepancies are found, we may
 				request revisions or reject invoices entirely. Additionally, we reserve
@@ -398,7 +398,7 @@ const CouncilGuidelines = () => {
 				provided to Outside Counsel.
 			</p>
 			
-			<p>
+			<p className="mb-4 avoid-break">
 				These guidelines are designed to ensure transparency, accountability,
 				and efficiency in all legal matters. We expect our Outside Counsel to
 				uphold these standards, and failure to do so may result in the
