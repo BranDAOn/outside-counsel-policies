@@ -100,7 +100,7 @@ const CouncilGuidelines = () => {
 				key areas such as:
       		</p>
 
-			<ul>
+			<ul className="list-disc pl-8 mb-4 avoid-break">
 				<li>Timekeeping and Billing Practices</li>
 				<li>Staffing and Team Composition</li>
 				<li>Expense Management</li>
@@ -122,8 +122,8 @@ const CouncilGuidelines = () => {
 
 			<h3 className="font-bold mt-6 mb-4 avoid-break text-left">3.1 Detailed Time Entries</h3>
 
-			<ul>
-        		<li>
+			<ul className="list-disc pl-8 mb-4 avoid-break">
+        			<li>
 					Time entries must be recorded in increments of 0.1 hours (6-minute
 					intervals) with detailed descriptions of the work performed.
 					Descriptions such as "work on matter," "attention to," "regarding
@@ -133,7 +133,7 @@ const CouncilGuidelines = () => {
 					to avoid sensitive information becoming discoverable through
 					timesheets). Each entry must specify the nature and purpose of the
 					task to allow for comprehensive review and approval.
-        		</li>
+        			</li>
 				<li>
 					Block billing, or grouping multiple tasks into one time entry, is
 					strictly prohibited. Each task must be separately itemized.
@@ -147,7 +147,7 @@ const CouncilGuidelines = () => {
 
 			<h3 className="font-bold mt-6 mb-4 avoid-break text-left">3.2 Billing for Meetings, Calls, and Emails</h3>
 
-			<ul>
+			<ul className="list-disc pl-8 mb-4 avoid-break">
 				<li>
 					Meetings, phone calls, or email correspondences should involve only
 					those attorneys whose presence is necessary and who contribute
@@ -169,35 +169,35 @@ const CouncilGuidelines = () => {
 
       		<h3 className="font-bold mt-6 mb-4 avoid-break text-left">4.1 Staffing Efficiency</h3>
 
-			<ul>
-        		<li>
+			<ul className="list-disc pl-8 mb-4 avoid-break">
+        			<li>
 					Outside Counsel is expected to staff matters efficiently, using the
 					most cost-effective timekeepers for each task. Partners should focus
 					on high-level strategy and complex legal matters, while routine
 					tasks should be delegated to associates or paralegals where
 					appropriate.
-        		</li>
-        		<li>
+        			</li>
+        			<li>
 					Any assignment of more than two attorneys on a matter requires
 					pre-approval, and billing for overlapping efforts by multiple
 					attorneys will be closely scrutinized.
-        		</li>
+        			</li>
 			</ul>
 
 			<h3 className="font-bold mt-6 mb-4 avoid-break text-left">4.2 Prohibited Billing for Administrative Roles</h3>
 
-			<ul>
-        		<li>
+			<ul className="list-disc pl-8 mb-4 avoid-break">
+        			<li>
 					We will not pay for the time of clerks, secretaries, word
 					processors, librarians, internal couriers, law clerks, summer
 					associates, or other administrative staff. These roles are
 					considered part of the law firm's overhead.
-        		</li>
+        			</li>
      		</ul>
 
 			<h3 className="font-bold mt-6 mb-4 avoid-break text-left">4.3 Use of Experts, Consultants, and Vendors</h3>
 
-			<ul>
+			<ul className="list-disc pl-8 mb-4 avoid-break">
 				<li>
 				The use of third-party experts, consultants, or additional outside
 				counsel must be pre-approved by us in writing. If approval is
@@ -211,7 +211,7 @@ const CouncilGuidelines = () => {
 
 			<h3 className="font-bold mt-6 mb-4 avoid-break text-left">5.1 Travel and Related Expenses</h3>
 
-			<ul>
+			<ul className="list-disc pl-8 mb-4 avoid-break">
 				<li>
 				Pre-approval is required for all travel. Travel expenses should be
 				kept to a minimum, and where possible, virtual meetings should
@@ -234,7 +234,7 @@ const CouncilGuidelines = () => {
 
 			<p className="mb-4 avoid-break">We will not reimburse the following expenses:</p>
 
-			<ul>
+			<ul className="list-disc pl-8 mb-4 avoid-break">
 				<li>Internal copying or printing fees.</li>
 				<li>Courier services between offices.</li>
 				<li>Office supplies, meals, or any other standard administrative overhead.</li>
@@ -249,7 +249,7 @@ const CouncilGuidelines = () => {
 
 			<h3 className="font-bold mt-6 mb-4 avoid-break text-left">6.1 Invoice Submission</h3>
 
-			<ul>
+			<ul className="list-disc pl-8 mb-4 avoid-break">
 				<li>
 				Invoices must be submitted monthly and no later than 30 days after
 				the month in which the services were provided. We will endeavor to
@@ -270,7 +270,7 @@ const CouncilGuidelines = () => {
 
 			<p className="mb-4 avoid-break">Invoices must include:</p>
 
-			<ul>
+			<ul className="list-disc pl-8 mb-4 avoid-break">
 				<li>A unique invoice number.</li>
 				<li>Specific date and time entries for each task performed.</li>
 				<li>
@@ -295,7 +295,7 @@ const CouncilGuidelines = () => {
 				limitation:
 			</p>
 
-			<ul>
+			<ul className="list-disc pl-8 mb-4 avoid-break">
 				<li>Incorrect format;</li>
 				<li>Mathematical error;</li>
 				<li>Non-reimbursable expenses (see Section 5);</li>
