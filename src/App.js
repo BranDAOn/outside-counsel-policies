@@ -53,7 +53,7 @@ const CouncilGuidelines = () => {
 				onChange={handleInputChange}
 				placeholder="[Name-of-your-Company]"
 				className="border-b border-gray-300 focus:border-blue-500 outline-none"
-			/>OUTSIDE COUNSEL POLICY</h1>
+			/> OUTSIDE COUNSEL POLICY</h1>
 		
 			<h2 className="text-2xl font-bold mt-6 mb-4 avoid-break text-left">1. Introduction</h2>
 		
