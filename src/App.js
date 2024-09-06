@@ -56,7 +56,7 @@ const CouncilGuidelines = () => {
 			/>OUTSIDE COUNSEL POLICY</h1>
 		
 			<h2>1. Introduction</h2>
-			<br>
+		
 			<p className="mb-4 avoid-break">
 				At <input
 				type="text"
