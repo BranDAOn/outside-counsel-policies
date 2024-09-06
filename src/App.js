@@ -310,22 +310,22 @@ const CouncilGuidelines = () => {
 			</ul>
 
 			<p className="mb-4 avoid-break">For example, an invoice containing the following entry will be returned (unless pre-approved):</p>
-			<table>
+			<table className="min-w-full border-collapse border border-gray-300">
 				<thead>
-				<tr>
-					<th>Hours</th>
-					<th>Description</th>
-				</tr>
+					<tr className="bg-gray-100">
+						<th className="py-2 px-4 border border-gray-300 font-semibold text-left">Hours</th>
+						 <th className="py-2 px-4 border border-gray-300 font-semibold text-left">Description</th>
+					</tr>
 				</thead>
 				<tbody>
-				<tr>
-					<td>1.5</td>
-					<td>
-					Call with client re ongoing matters; review revised draft of
-					client agreement and related documentation; correspondence
-					regarding same
-					</td>
-				</tr>
+					<tr>
+						<td className="py-2 px-4 border border-gray-300 align-top">1.5</td>
+						<td className="py-2 px-4 border border-gray-300">
+							Call with client re ongoing matters; review revised draft of
+							client agreement and related documentation; correspondence
+							regarding same
+						</td>
+					</tr>
 				</tbody>
 			</table>
 
